@@ -1,0 +1,15 @@
+# ninja log v6
+9	784	7727452801297407	src/CMakeFiles/1doctor.dir/doctor.cpp.obj	74aa2f9e15c15ded
+787	1215	7727452809093199	src/1doctor.exe	75609061c35ccddf
+14	758	7727455441594619	src/CMakeFiles/1doctor.dir/doctor.cpp.obj	74aa2f9e15c15ded
+759	975	7727455449028098	src/1doctor.exe	75609061c35ccddf
+15	751	7727455728192717	src/CMakeFiles/1doctor.dir/doctor.cpp.obj	74aa2f9e15c15ded
+752	1035	7727455735592585	src/1doctor.exe	75609061c35ccddf
+14	775	7727458036297534	src/CMakeFiles/1doctor.dir/doctor.cpp.obj	74aa2f9e15c15ded
+776	992	7727458043947160	src/1doctor.exe	75609061c35ccddf
+14	764	7727461814655372	src/CMakeFiles/1doctor.dir/doctor.cpp.obj	74aa2f9e15c15ded
+765	1048	7727461822136561	src/1doctor.exe	75609061c35ccddf
+14	765	7727466476697555	src/CMakeFiles/1doctor.dir/doctor.cpp.obj	74aa2f9e15c15ded
+767	975	7727466484195411	src/1doctor.exe	75609061c35ccddf
+14	765	7727469557863230	src/CMakeFiles/1doctor.dir/doctor.cpp.obj	74aa2f9e15c15ded
+766	1048	7727469565334544	src/1doctor.exe	75609061c35ccddf

@@ -1,0 +1,5 @@
+# ninja log v6
+16	900	7745448075652907	CMakeFiles/3kitchen.dir/src/tools.cpp.obj	5d529ea2b6a9f245
+33	768	7745496829074051	CMakeFiles/3kitchen.dir/src/main.cpp.obj	3c14c11654c7c61c
+796	1084	7745497139816988	3kitchen.exe	23b405200fa5e290
+33	795	7745497132185756	CMakeFiles/3kitchen.dir/src/kitchen.cpp.obj	c06afd790ee41a2a

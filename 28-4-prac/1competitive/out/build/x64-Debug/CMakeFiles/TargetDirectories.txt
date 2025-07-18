@@ -1,0 +1,3 @@
+D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/28-4-prac/1competitive/out/build/x64-Debug/CMakeFiles/1competitive.dir
+D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/28-4-prac/1competitive/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/28-4-prac/1competitive/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

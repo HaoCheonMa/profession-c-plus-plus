@@ -34,7 +34,7 @@ int main() {
 		else
 			std::cerr << "\n**UNKNOWN COMMAND**\n";
 
-		std::cout << request << ": " << response.status_code;
+		std::cout << request << ": " << response.text;
 
 		std::cout << std::endl;
 	}

@@ -1,0 +1,21 @@
+# ninja log v6
+6	91	7748987549963187	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	da4cd98abec40c30
+6	91	7748987549963187	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	da4cd98abec40c30
+92	34188	7748987890864134	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	2e942e26ae9b862a
+92	34188	7748987890864134	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	2e942e26ae9b862a
+34188	34378	7748987891020912	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	ab5b67ce4984651c
+34188	34378	7748987891020912	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	ab5b67ce4984651c
+34378	34458	7748987893561341	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	25de140487f81b2d
+34378	34458	7748987893561341	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	25de140487f81b2d
+34458	34538	7748987894348918	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	618e2a657f5fcf5a
+34458	34538	7748987894348918	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	618e2a657f5fcf5a
+34538	34620	7748987895137995	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	8381148b6649eec5
+34538	34620	7748987895137995	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	8381148b6649eec5
+34620	34700	7748987895927600	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	72c7c429a538de94
+34620	34700	7748987895927600	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	72c7c429a538de94
+34701	34781	7748987896725700	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	c9b99f3f5cabd513
+34701	34781	7748987896725700	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	c9b99f3f5cabd513
+34782	34892	7748987897952326	CMakeFiles/zlib-populate-complete	4cd1bf8aea928a06
+34782	34892	7748987897952326	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	4cd1bf8aea928a06
+34782	34892	7748987897952326	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	4cd1bf8aea928a06
+34782	34892	7748987897952326	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	4cd1bf8aea928a06

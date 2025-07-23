@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/curl-subbuild/CMakeFiles/curl-populate"
+		},
+		{
+			"file" : "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/curl-subbuild/CMakeFiles/curl-populate.rule"
+		},
+		{
+			"file" : "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete.rule"
+		},
+		{
+			"file" : "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build.rule"
+		},
+		{
+			"file" : "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure.rule"
+		},
+		{
+			"file" : "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download.rule"
+		},
+		{
+			"file" : "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install.rule"
+		},
+		{
+			"file" : "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch.rule"
+		},
+		{
+			"file" : "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test.rule"
+		},
+		{
+			"file" : "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/2html/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"curl-populate"
+		],
+		"name" : "curl-populate"
+	}
+}

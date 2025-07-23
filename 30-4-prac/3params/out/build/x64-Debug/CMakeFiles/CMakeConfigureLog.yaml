@@ -1,0 +1,1323 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      The system is: Windows - 10.0.26100 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: D:/---PROGRAMMS/MSVS/Product/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.44.35211 для x64
+      (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+      
+      CMakeCCompilerId.c
+      Microsoft (R) Incremental Linker Version 14.44.35211.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCCompilerId.exe 
+      CMakeCCompilerId.obj 
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+      
+      The C compiler identification is MSVC, found in:
+        D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/3.31.6-msvc6/CompilerIdC/CMakeCCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:1288 (message)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        main.c
+        Примечание: включение файла:  D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Примечание: включение файла:  "
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: D:/---PROGRAMMS/MSVS/Product/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.44.35211 для x64
+      (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.44.35211.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/3.31.6-msvc6/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:1288 (message)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        Примечание: включение файла:  D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Примечание: включение файла:  "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:4 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7j9zyx"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7j9zyx"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7j9zyx'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_b4f79
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_b4f79.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_b4f79.dir\\ /FS -c D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_b4f79.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b4f79.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_b4f79.exe /implib:cmTC_b4f79.lib /pdb:cmTC_b4f79.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': D:/---PROGRAMMS/MSVS/Product/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      Running the C compiler's linker: "D:/---PROGRAMMS/MSVS/Product/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.44.35211.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:4 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-z9fxlw"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-z9fxlw"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-z9fxlw'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_4ae0d
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_4ae0d.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_4ae0d.dir\\ /FS -c D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_4ae0d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4ae0d.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_4ae0d.exe /implib:cmTC_4ae0d.lib /pdb:cmTC_4ae0d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': D:/---PROGRAMMS/MSVS/Product/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:4 (project)"
+    message: |
+      Running the CXX compiler's linker: "D:/---PROGRAMMS/MSVS/Product/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.44.35211.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:304 (check_include_file)"
+    checks:
+      - "Looking for sys/auxv.h"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-1cghgs"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-1cghgs"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_AUXV_H"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-1cghgs'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_22ec9
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_22ec9.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_22ec9.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-1cghgs\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_22ec9.dir/CheckIncludeFile.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_22ec9.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_22ec9.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-1cghgs\\CheckIncludeFile.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-1cghgs\\CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: sys/auxv.h: No such file or directory,
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:308 (check_include_file)"
+    checks:
+      - "Looking for sys/sdt.h"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-mx3hx1"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-mx3hx1"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_SDT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-mx3hx1'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_5ea9b
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_5ea9b.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_5ea9b.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-mx3hx1\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_5ea9b.dir/CheckIncludeFile.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_5ea9b.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_5ea9b.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-mx3hx1\\CheckIncludeFile.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-mx3hx1\\CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: sys/sdt.h: No such file or directory,
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:312 (check_include_file)"
+    checks:
+      - "Looking for unistd.h"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-yyko4w"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-yyko4w"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_UNISTD_H"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-yyko4w'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_7f69b
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_7f69b.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_7f69b.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-yyko4w\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_7f69b.dir/CheckIncludeFile.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_7f69b.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_7f69b.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-yyko4w\\CheckIncludeFile.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-yyko4w\\CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:262 (check_include_file)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for sys/types.h"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7739bl"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7739bl"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_TYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7739bl'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_737c4
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_737c4.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_737c4.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-7739bl\\CheckIncludeFile.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_737c4.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_737c4.dir\\CheckIncludeFile.c.obj  /out:cmTC_737c4.exe /implib:cmTC_737c4.lib /pdb:cmTC_737c4.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:263 (check_include_file)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for stdint.h"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-5uutba"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-5uutba"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-5uutba'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_fbbaf
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_fbbaf.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_fbbaf.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-5uutba\\CheckIncludeFile.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_fbbaf.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_fbbaf.dir\\CheckIncludeFile.c.obj  /out:cmTC_fbbaf.exe /implib:cmTC_fbbaf.lib /pdb:cmTC_fbbaf.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake:99 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:264 (check_include_file)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for stddef.h"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-bwplod"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-bwplod"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_STDDEF_H"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-bwplod'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_48ab7
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_48ab7.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_48ab7.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-bwplod\\CheckIncludeFile.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_48ab7.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_48ab7.dir\\CheckIncludeFile.c.obj  /out:cmTC_48ab7.exe /implib:cmTC_48ab7.lib /pdb:cmTC_48ab7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:156 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:283 (__check_type_size_impl)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Check size of off64_t"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ua84jz"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ua84jz"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-ua84jz'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_c24c2
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_c24c2.dir\\OFF64_T.c.obj /FdCMakeFiles\\cmTC_c24c2.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ua84jz\\OFF64_T.c
+        FAILED: CMakeFiles/cmTC_c24c2.dir/OFF64_T.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_c24c2.dir\\OFF64_T.c.obj /FdCMakeFiles\\cmTC_c24c2.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ua84jz\\OFF64_T.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ua84jz\\OFF64_T.c(29): error C2065: off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ua84jz\\OFF64_T.c(30): error C2065: off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ua84jz\\OFF64_T.c(31): error C2065: off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ua84jz\\OFF64_T.c(32): error C2065: off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ua84jz\\OFF64_T.c(33): error C2065: off64_t: необъявленный идентификатор
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:156 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:283 (__check_type_size_impl)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:322 (check_type_size)"
+    checks:
+      - "Check size of _off64_t"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-bj0ksp"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-bj0ksp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE__OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-bj0ksp'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_1a66d
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_1a66d.dir\\_OFF64_T.c.obj /FdCMakeFiles\\cmTC_1a66d.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-bj0ksp\\_OFF64_T.c
+        FAILED: CMakeFiles/cmTC_1a66d.dir/_OFF64_T.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_1a66d.dir\\_OFF64_T.c.obj /FdCMakeFiles\\cmTC_1a66d.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-bj0ksp\\_OFF64_T.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-bj0ksp\\_OFF64_T.c(29): error C2065: _off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-bj0ksp\\_OFF64_T.c(30): error C2065: _off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-bj0ksp\\_OFF64_T.c(31): error C2065: _off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-bj0ksp\\_OFF64_T.c(32): error C2065: _off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-bj0ksp\\_OFF64_T.c(33): error C2065: _off64_t: необъявленный идентификатор
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:156 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:283 (__check_type_size_impl)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:326 (check_type_size)"
+    checks:
+      - "Check size of __off64_t"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-obd4jh"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-obd4jh"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE___OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-obd4jh'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_96b45
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_96b45.dir\\__OFF64_T.c.obj /FdCMakeFiles\\cmTC_96b45.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-obd4jh\\__OFF64_T.c
+        FAILED: CMakeFiles/cmTC_96b45.dir/__OFF64_T.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_96b45.dir\\__OFF64_T.c.obj /FdCMakeFiles\\cmTC_96b45.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-obd4jh\\__OFF64_T.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-obd4jh\\__OFF64_T.c(29): error C2065: __off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-obd4jh\\__OFF64_T.c(30): error C2065: __off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-obd4jh\\__OFF64_T.c(31): error C2065: __off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-obd4jh\\__OFF64_T.c(32): error C2065: __off64_t: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-obd4jh\\__OFF64_T.c(33): error C2065: __off64_t: необъявленный идентификатор
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckFunctionExists.cmake:93 (try_compile)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:334 (check_function_exists)"
+    checks:
+      - "Looking for fseeko"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-v5syzo"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-v5syzo"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_FSEEKO"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-v5syzo'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_10445
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=fseeko /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_10445.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_10445.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-v5syzo\\CheckFunctionExists.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_10445.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_10445.dir\\CheckFunctionExists.c.obj  /out:cmTC_10445.exe /implib:cmTC_10445.lib /pdb:cmTC_10445.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_10445.exe 
+        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_10445.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_10445.dir\\CheckFunctionExists.c.obj  /out:cmTC_10445.exe /implib:cmTC_10445.lib /pdb:cmTC_10445.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_10445.dir\\CheckFunctionExists.c.obj /out:cmTC_10445.exe /implib:cmTC_10445.lib /pdb:cmTC_10445.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_10445.dir/intermediate.manifest CMakeFiles\\cmTC_10445.dir/manifest.res" failed (exit code 1120) with the following output:
+        CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ fseeko в функции main.
+        cmTC_10445.exe : fatal error LNK1120: неразрешенных внешних элементов: 1\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckFunctionExists.cmake:93 (try_compile)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:339 (check_function_exists)"
+    checks:
+      - "Looking for strerror"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-f1528a"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-f1528a"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_STRERROR"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-f1528a'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_933f9
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=strerror /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_933f9.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_933f9.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-f1528a\\CheckFunctionExists.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_933f9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_933f9.dir\\CheckFunctionExists.c.obj  /out:cmTC_933f9.exe /implib:cmTC_933f9.lib /pdb:cmTC_933f9.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:163 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:68 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:345 (check_symbol_exists)"
+    checks:
+      - "Looking for posix_memalign"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-8ogwdo"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-8ogwdo"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_POSIX_MEMALIGN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-8ogwdo'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_3f024
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_POSIX_C_SOURCE=200112L  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_3f024.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_3f024.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-8ogwdo\\CheckSymbolExists.c
+        FAILED: CMakeFiles/cmTC_3f024.dir/CheckSymbolExists.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_POSIX_C_SOURCE=200112L  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_3f024.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_3f024.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-8ogwdo\\CheckSymbolExists.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-8ogwdo\\CheckSymbolExists.c(8): error C2065: posix_memalign: необъявленный идентификатор
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:163 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake:68 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:352 (check_symbol_exists)"
+    checks:
+      - "Looking for aligned_alloc"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-2xfqhx"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-2xfqhx"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_ALIGNED_ALLOC"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-2xfqhx'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_98f9f
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_ISOC11_SOURCE=1  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_98f9f.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_98f9f.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-2xfqhx\\CheckSymbolExists.c
+        FAILED: CMakeFiles/cmTC_98f9f.dir/CheckSymbolExists.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_ISOC11_SOURCE=1  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_98f9f.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_98f9f.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-2xfqhx\\CheckSymbolExists.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-2xfqhx\\CheckSymbolExists.c(8): error C2065: aligned_alloc: необъявленный идентификатор
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCCompilerFlag.cmake:56 (cmake_check_compiler_flag)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:371 (check_c_compiler_flag)"
+    checks:
+      - "Performing Test HAVE_NO_INTERPOSITION"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-61gltd"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-61gltd"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_NO_INTERPOSITION"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-61gltd'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_44fe8
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_NO_INTERPOSITION  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11   -fno-semantic-interposition /showIncludes /FoCMakeFiles\\cmTC_44fe8.dir\\src.c.obj /FdCMakeFiles\\cmTC_44fe8.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-61gltd\\src.c
+        cl: командная строка warning D9002: пропуск неизвестного параметра "-fno-semantic-interposition"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_44fe8.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_44fe8.dir\\src.c.obj  /out:cmTC_44fe8.exe /implib:cmTC_44fe8.lib /pdb:cmTC_44fe8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:376 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_ATTRIBUTE_VISIBILITY_HIDDEN"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-o46095"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-o46095"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_ATTRIBUTE_VISIBILITY_HIDDEN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-o46095'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_337fd
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_VISIBILITY_HIDDEN  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_337fd.dir\\src.c.obj /FdCMakeFiles\\cmTC_337fd.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-o46095\\src.c
+        FAILED: CMakeFiles/cmTC_337fd.dir/src.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_VISIBILITY_HIDDEN  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_337fd.dir\\src.c.obj /FdCMakeFiles\\cmTC_337fd.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-o46095\\src.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-o46095\\src.c(2): error C2143: синтаксическая ошибка: отсутствие ")" перед "("
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-o46095\\src.c(2): error C2091: функция возвращает функцию
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-o46095\\src.c(2): error C2143: синтаксическая ошибка: отсутствие ")" перед "строка"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-o46095\\src.c(2): error C2143: синтаксическая ошибка: отсутствие "{" перед "строка"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-o46095\\src.c(2): error C2059: синтаксическая ошибка: строка
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-o46095\\src.c(2): error C2059: синтаксическая ошибка: )
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:390 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_ATTRIBUTE_VISIBILITY_INTERNAL"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-z7ohtq"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-z7ohtq"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_ATTRIBUTE_VISIBILITY_INTERNAL"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-z7ohtq'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_22035
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_VISIBILITY_INTERNAL  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_22035.dir\\src.c.obj /FdCMakeFiles\\cmTC_22035.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-z7ohtq\\src.c
+        FAILED: CMakeFiles/cmTC_22035.dir/src.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_VISIBILITY_INTERNAL  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_22035.dir\\src.c.obj /FdCMakeFiles\\cmTC_22035.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-z7ohtq\\src.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-z7ohtq\\src.c(2): error C2143: синтаксическая ошибка: отсутствие ")" перед "("
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-z7ohtq\\src.c(2): error C2091: функция возвращает функцию
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-z7ohtq\\src.c(2): error C2143: синтаксическая ошибка: отсутствие ")" перед "строка"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-z7ohtq\\src.c(2): error C2143: синтаксическая ошибка: отсутствие "{" перед "строка"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-z7ohtq\\src.c(2): error C2059: синтаксическая ошибка: строка
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-z7ohtq\\src.c(2): error C2059: синтаксическая ошибка: )
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:404 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_ATTRIBUTE_ALIGNED"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-gcsryu"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-gcsryu"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_ATTRIBUTE_ALIGNED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-gcsryu'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_40ce7
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_ALIGNED  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_40ce7.dir\\src.c.obj /FdCMakeFiles\\cmTC_40ce7.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-gcsryu\\src.c
+        FAILED: CMakeFiles/cmTC_40ce7.dir/src.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_ALIGNED  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_40ce7.dir\\src.c.obj /FdCMakeFiles\\cmTC_40ce7.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-gcsryu\\src.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-gcsryu\\src.c(2): warning C4013: __attribute__: нет определения; предполагается "extern" с возвратом типа "int"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-gcsryu\\src.c(2): warning C4013: aligned: нет определения; предполагается "extern" с возвратом типа "int"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-gcsryu\\src.c(2): error C2143: синтаксическая ошибка: отсутствие ";" перед "тип"
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:418 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_THREAD_LOCAL"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-mly6m1"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-mly6m1"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_THREAD_LOCAL"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-mly6m1'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_25683
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_THREAD_LOCAL  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_25683.dir\\src.c.obj /FdCMakeFiles\\cmTC_25683.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-mly6m1\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_25683.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_25683.dir\\src.c.obj  /out:cmTC_25683.exe /implib:cmTC_25683.lib /pdb:cmTC_25683.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:433 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_BUILTIN_CTZ"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-lrapvg"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-lrapvg"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_BUILTIN_CTZ"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-lrapvg'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_7e3fd
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_BUILTIN_CTZ  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_7e3fd.dir\\src.c.obj /FdCMakeFiles\\cmTC_7e3fd.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-lrapvg\\src.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-lrapvg\\src.c(3): warning C4013: __builtin_ctz: нет определения; предполагается "extern" с возвратом типа "int"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_7e3fd.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7e3fd.dir\\src.c.obj  /out:cmTC_7e3fd.exe /implib:cmTC_7e3fd.lib /pdb:cmTC_7e3fd.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_7e3fd.exe 
+        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_7e3fd.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7e3fd.dir\\src.c.obj  /out:cmTC_7e3fd.exe /implib:cmTC_7e3fd.lib /pdb:cmTC_7e3fd.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7e3fd.dir\\src.c.obj /out:cmTC_7e3fd.exe /implib:cmTC_7e3fd.lib /pdb:cmTC_7e3fd.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_7e3fd.dir/intermediate.manifest CMakeFiles\\cmTC_7e3fd.dir/manifest.res" failed (exit code 1120) with the following output:
+        src.c.obj : error LNK2019: ссылка на неразрешенный внешний символ __builtin_ctz в функции main.\x0d
+        cmTC_7e3fd.exe : fatal error LNK1120: неразрешенных внешних элементов: 1\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:449 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_BUILTIN_CTZLL"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-b8bcpd"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-b8bcpd"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_BUILTIN_CTZLL"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-b8bcpd'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_11d30
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_BUILTIN_CTZLL  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_11d30.dir\\src.c.obj /FdCMakeFiles\\cmTC_11d30.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-b8bcpd\\src.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-b8bcpd\\src.c(3): warning C4013: __builtin_ctzll: нет определения; предполагается "extern" с возвратом типа "int"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_11d30.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_11d30.dir\\src.c.obj  /out:cmTC_11d30.exe /implib:cmTC_11d30.lib /pdb:cmTC_11d30.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_11d30.exe 
+        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_11d30.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_11d30.dir\\src.c.obj  /out:cmTC_11d30.exe /implib:cmTC_11d30.lib /pdb:cmTC_11d30.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_11d30.dir\\src.c.obj /out:cmTC_11d30.exe /implib:cmTC_11d30.lib /pdb:cmTC_11d30.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_11d30.dir/intermediate.manifest CMakeFiles\\cmTC_11d30.dir/manifest.res" failed (exit code 1120) with the following output:
+        src.c.obj : error LNK2019: ссылка на неразрешенный внешний символ __builtin_ctzll в функции main.\x0d
+        cmTC_11d30.exe : fatal error LNK1120: неразрешенных внешних элементов: 1\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:465 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_PTRDIFF_T"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-r7bh7r"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-r7bh7r"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_PTRDIFF_T"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-r7bh7r'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_4d5d9
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_PTRDIFF_T  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_4d5d9.dir\\src.c.obj /FdCMakeFiles\\cmTC_4d5d9.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-r7bh7r\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_4d5d9.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4d5d9.dir\\src.c.obj  /out:cmTC_4d5d9.exe /implib:cmTC_4d5d9.lib /pdb:cmTC_4d5d9.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/cmake/detect-intrinsics.cmake:152 (check_c_source_compile_or_run)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:783 (check_avx2_intrinsics)"
+    checks:
+      - "Performing Test HAVE_AVX2_INTRIN"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-vkgrxj"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-vkgrxj"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_AVX2_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-vkgrxj'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_b1241
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_AVX2_INTRIN  /DWIN32 /D_WINDOWS /W3 /arch:AVX2 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_b1241.dir\\src.c.obj /FdCMakeFiles\\cmTC_b1241.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vkgrxj\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_b1241.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b1241.dir\\src.c.obj  /out:cmTC_b1241.exe /implib:cmTC_b1241.lib /pdb:cmTC_b1241.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/cmake/detect-intrinsics.cmake:63 (check_c_source_compile_or_run)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:801 (check_avx512_intrinsics)"
+    checks:
+      - "Performing Test HAVE_AVX512_INTRIN"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-tfh3tn"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-tfh3tn"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_AVX512_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-tfh3tn'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_709fa
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_AVX512_INTRIN  /DWIN32 /D_WINDOWS /W3 /arch:AVX512 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_709fa.dir\\src.c.obj /FdCMakeFiles\\cmTC_709fa.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tfh3tn\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_709fa.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_709fa.dir\\src.c.obj  /out:cmTC_709fa.exe /implib:cmTC_709fa.lib /pdb:cmTC_709fa.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/cmake/detect-intrinsics.cmake:79 (check_c_source_compile_or_run)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:801 (check_avx512_intrinsics)"
+    checks:
+      - "Performing Test HAVE_MASK_INTRIN"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-fd37g0"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-fd37g0"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_MASK_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-fd37g0'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_098f2
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_MASK_INTRIN  /DWIN32 /D_WINDOWS /W3 /arch:AVX512 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_098f2.dir\\src.c.obj /FdCMakeFiles\\cmTC_098f2.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-fd37g0\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_098f2.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_098f2.dir\\src.c.obj  /out:cmTC_098f2.exe /implib:cmTC_098f2.lib /pdb:cmTC_098f2.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/cmake/detect-intrinsics.cmake:118 (check_c_source_compile_or_run)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:817 (check_avx512vnni_intrinsics)"
+    checks:
+      - "Performing Test HAVE_AVX512VNNI_INTRIN"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-59hu9a"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-59hu9a"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_AVX512VNNI_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-59hu9a'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_c175c
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_AVX512VNNI_INTRIN  /DWIN32 /D_WINDOWS /W3 /arch:AVX512 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_c175c.dir\\src.c.obj /FdCMakeFiles\\cmTC_c175c.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-59hu9a\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_c175c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c175c.dir\\src.c.obj  /out:cmTC_c175c.exe /implib:cmTC_c175c.lib /pdb:cmTC_c175c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/cmake/detect-intrinsics.cmake:486 (check_c_source_compile_or_run)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:829 (check_sse42_intrinsics)"
+    checks:
+      - "Performing Test HAVE_SSE42CRC_INLINE_ASM"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-vxh8td"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-vxh8td"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SSE42CRC_INLINE_ASM"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-vxh8td'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_4dd2b
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_SSE42CRC_INLINE_ASM  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_4dd2b.dir\\src.c.obj /FdCMakeFiles\\cmTC_4dd2b.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c
+        FAILED: CMakeFiles/cmTC_4dd2b.dir/src.c.obj 
+        D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_SSE42CRC_INLINE_ASM  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_4dd2b.dir\\src.c.obj /FdCMakeFiles\\cmTC_4dd2b.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2065: mov: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2065: edx: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2065: mov: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2065: eax: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "crc32"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2065: crc32: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2065: eax: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2065: edx: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2065: mov: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "h"
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2065: eax: необъявленный идентификатор
+        D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-vxh8td\\src.c(4): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/cmake/detect-intrinsics.cmake:499 (check_c_source_compile_or_run)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:829 (check_sse42_intrinsics)"
+    checks:
+      - "Performing Test HAVE_SSE42CRC_INTRIN"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-r27tp2"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-r27tp2"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SSE42CRC_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-r27tp2'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_b8699
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_SSE42CRC_INTRIN  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_b8699.dir\\src.c.obj /FdCMakeFiles\\cmTC_b8699.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-r27tp2\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_b8699.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b8699.dir\\src.c.obj  /out:cmTC_b8699.exe /implib:cmTC_b8699.lib /pdb:cmTC_b8699.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/cmake/detect-intrinsics.cmake:432 (check_c_source_compile_or_run)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:844 (check_sse2_intrinsics)"
+    checks:
+      - "Performing Test HAVE_SSE2_INTRIN"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-a4puqy"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-a4puqy"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SSE2_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-a4puqy'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_87f58
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_SSE2_INTRIN  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_87f58.dir\\src.c.obj /FdCMakeFiles\\cmTC_87f58.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-a4puqy\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_87f58.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_87f58.dir\\src.c.obj  /out:cmTC_87f58.exe /implib:cmTC_87f58.lib /pdb:cmTC_87f58.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/cmake/detect-intrinsics.cmake:458 (check_c_source_compile_or_run)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:861 (check_ssse3_intrinsics)"
+    checks:
+      - "Performing Test HAVE_SSSE3_INTRIN"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-otvkqp"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-otvkqp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SSSE3_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-otvkqp'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_546cc
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_SSSE3_INTRIN  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_546cc.dir\\src.c.obj /FdCMakeFiles\\cmTC_546cc.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-otvkqp\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_546cc.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_546cc.dir\\src.c.obj  /out:cmTC_546cc.exe /implib:cmTC_546cc.lib /pdb:cmTC_546cc.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/cmake/detect-intrinsics.cmake:227 (check_c_source_compile_or_run)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:873 (check_pclmulqdq_intrinsics)"
+    checks:
+      - "Performing Test HAVE_PCLMULQDQ_INTRIN"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7qhpof"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7qhpof"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_PCLMULQDQ_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-7qhpof'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_855b5
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_PCLMULQDQ_INTRIN  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_855b5.dir\\src.c.obj /FdCMakeFiles\\cmTC_855b5.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-7qhpof\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_855b5.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_855b5.dir\\src.c.obj  /out:cmTC_855b5.exe /implib:cmTC_855b5.lib /pdb:cmTC_855b5.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/cmake/detect-intrinsics.cmake:253 (check_c_source_compile_or_run)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:882 (check_vpclmulqdq_intrinsics)"
+    checks:
+      - "Performing Test HAVE_VPCLMULQDQ_INTRIN"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-pebh5e"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-pebh5e"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_VPCLMULQDQ_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-pebh5e'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_d4fe3
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_VPCLMULQDQ_INTRIN  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_d4fe3.dir\\src.c.obj /FdCMakeFiles\\cmTC_d4fe3.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-pebh5e\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_d4fe3.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_d4fe3.dir\\src.c.obj  /out:cmTC_d4fe3.exe /implib:cmTC_d4fe3.lib /pdb:cmTC_d4fe3.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake:108 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake:58 (cmake_check_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/cmake/detect-intrinsics.cmake:547 (check_c_source_compiles)"
+      - "out/build/x64-Debug/_deps/zlib-src/CMakeLists.txt:903 (check_xsave_intrinsics)"
+    checks:
+      - "Performing Test HAVE_XSAVE_INTRIN"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-pgeeqd"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-pgeeqd"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_XSAVE_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-pgeeqd'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_f4b3b
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_XSAVE_INTRIN  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_f4b3b.dir\\src.c.obj /FdCMakeFiles\\cmTC_f4b3b.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-pgeeqd\\src.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_f4b3b.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f4b3b.dir\\src.c.obj  /out:cmTC_f4b3b.exe /implib:cmTC_f4b3b.lib /pdb:cmTC_f4b3b.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "out/build/x64-Debug/_deps/curl-src/CMake/Macros.cmake:51 (try_compile)"
+      - "out/build/x64-Debug/_deps/curl-src/CMakeLists.txt:244 (curl_internal_test)"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/curl-build/CMakeFiles/CMakeTmp"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/curl-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/curl-src/CMake;D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake"
+    buildResult:
+      variable: "HAVE_WIN32_WINNT"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/curl-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_68518
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_WIN32_WINNT  -DWIN32_LEAN_AND_MEAN -D_CRT_NONSTDC_NO_DEPRECATE /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_68518.dir\\CurlTests.c.obj /FdCMakeFiles\\cmTC_68518.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\_deps\\curl-src\\CMake\\CurlTests.c
+        _WIN32_WINNT=0x0A00
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_68518.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_68518.dir\\CurlTests.c.obj  /out:cmTC_68518.exe /implib:cmTC_68518.lib /pdb:cmTC_68518.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:156 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:283 (__check_type_size_impl)"
+      - "out/build/x64-Debug/_deps/curl-src/CMakeLists.txt:1699 (check_type_size)"
+    checks:
+      - "Check size of size_t"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-oesxer"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-oesxer"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS  -W4"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/curl-src/CMake;D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake"
+    buildResult:
+      variable: "HAVE_SIZEOF_SIZE_T"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-oesxer'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_8d5ef
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DWIN32_LEAN_AND_MEAN -D_CRT_NONSTDC_NO_DEPRECATE  /DWIN32 /D_WINDOWS  -W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_8d5ef.dir\\SIZEOF_SIZE_T.c.obj /FdCMakeFiles\\cmTC_8d5ef.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-oesxer\\SIZEOF_SIZE_T.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_8d5ef.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_8d5ef.dir\\SIZEOF_SIZE_T.c.obj  /out:cmTC_8d5ef.exe /implib:cmTC_8d5ef.lib /pdb:cmTC_8d5ef.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:156 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:283 (__check_type_size_impl)"
+      - "out/build/x64-Debug/_deps/curl-src/CMakeLists.txt:1705 (check_type_size)"
+    checks:
+      - "Check size of time_t"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-019wi8"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-019wi8"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS  -W4"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/curl-src/CMake;D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake"
+    buildResult:
+      variable: "HAVE_SIZEOF_TIME_T"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-019wi8'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_b49d8
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DWIN32_LEAN_AND_MEAN -D_CRT_NONSTDC_NO_DEPRECATE  /DWIN32 /D_WINDOWS  -W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_b49d8.dir\\SIZEOF_TIME_T.c.obj /FdCMakeFiles\\cmTC_b49d8.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-019wi8\\SIZEOF_TIME_T.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_b49d8.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b49d8.dir\\SIZEOF_TIME_T.c.obj  /out:cmTC_b49d8.exe /implib:cmTC_b49d8.lib /pdb:cmTC_b49d8.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:156 (try_compile)"
+      - "D:/---PROGRAMMS/MSVS/Product/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake:283 (__check_type_size_impl)"
+      - "out/build/x64-Debug/_deps/curl-src/CMakeLists.txt:1912 (check_type_size)"
+    checks:
+      - "Check size of curl_socket_t"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-g4b236"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-g4b236"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS  -W4"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/curl-src/CMake;D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake"
+    buildResult:
+      variable: "HAVE_SIZEOF_CURL_SOCKET_T"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-g4b236'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_a19f4
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo -DWIN32_LEAN_AND_MEAN -D_CRT_NONSTDC_NO_DEPRECATE -ID:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\_deps\\curl-src\\include /DWIN32 /D_WINDOWS  -W4  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_a19f4.dir\\SIZEOF_CURL_SOCKET_T.c.obj /FdCMakeFiles\\cmTC_a19f4.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-g4b236\\SIZEOF_CURL_SOCKET_T.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_a19f4.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_a19f4.dir\\SIZEOF_CURL_SOCKET_T.c.obj  /out:cmTC_a19f4.exe /implib:cmTC_a19f4.lib /pdb:cmTC_a19f4.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  ws2_32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "out/build/x64-Debug/_deps/cpr-src/include/CMakeLists.txt:64 (try_compile)"
+    directories:
+      source: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-build/include/std_fs/CMakeFiles/CMakeTmp"
+      binary: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-build/include/std_fs/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "STD_FS_SUPPORTED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-build/include/std_fs/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): d:\\---programms\\msvs\\product\\common7\\ide\\commonextensions\\microsoft\\cmake\\Ninja\\ninja.exe -v cmTC_7f9ea
+        [1/2] D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_7f9ea.dir\\std_fs_support_test.cpp.obj /FdCMakeFiles\\cmTC_7f9ea.dir\\ /FS -c D:\\---PROJECTS\\skillbox-projects\\profession-c-plus-plus\\30-4-prac\\3params\\out\\build\\x64-Debug\\_deps\\cpr-src\\cmake\\std_fs_support_test.cpp
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\---PROGRAMMS\\MSVS\\Product\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe -E vs_link_exe --msvc-ver=1944 --intdir=CMakeFiles\\cmTC_7f9ea.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100261~1.0\\x64\\mt.exe --manifests  -- D:\\---PROGRAMMS\\MSVS\\Product\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7f9ea.dir\\std_fs_support_test.cpp.obj  /out:cmTC_7f9ea.exe /implib:cmTC_7f9ea.lib /pdb:cmTC_7f9ea.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...

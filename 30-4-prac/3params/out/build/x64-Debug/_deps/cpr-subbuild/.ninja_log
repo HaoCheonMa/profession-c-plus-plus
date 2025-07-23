@@ -1,0 +1,21 @@
+# ninja log v6
+6	93	7748996186450875	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-mkdir	3a0f8338640fb687
+6	93	7748996186450875	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-mkdir	3a0f8338640fb687
+93	4169	7748996227222777	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-download	ca0ece2ddd7e26f4
+93	4169	7748996227222777	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-download	ca0ece2ddd7e26f4
+4170	4376	7748996227301436	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-update	e1ee3e451ce18a08
+4170	4376	7748996227301436	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-update	e1ee3e451ce18a08
+4379	4463	7748996230163904	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-patch	a0fb07ee09953f6d
+4379	4463	7748996230163904	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-patch	a0fb07ee09953f6d
+4463	4543	7748996230962977	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-configure	3f7131bc5cb4dee6
+4463	4543	7748996230962977	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-configure	3f7131bc5cb4dee6
+4543	4621	7748996231738358	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-build	d13375977447547a
+4543	4621	7748996231738358	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-build	d13375977447547a
+4621	4702	7748996232544531	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-install	19ed71dc5ca58431
+4621	4702	7748996232544531	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-install	19ed71dc5ca58431
+4702	4783	7748996233350524	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-test	dc9a1101b121d3ef
+4702	4783	7748996233350524	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-test	dc9a1101b121d3ef
+4783	4894	7748996234466501	CMakeFiles/cpr-populate-complete	bcbb43c158c5b956
+4783	4894	7748996234466501	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-done	bcbb43c158c5b956
+4783	4894	7748996234466501	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-subbuild/CMakeFiles/cpr-populate-complete	bcbb43c158c5b956
+4783	4894	7748996234466501	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/3params/out/build/x64-Debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-done	bcbb43c158c5b956

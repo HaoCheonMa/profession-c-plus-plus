@@ -1,18 +1,6 @@
 # ninja log v6
-9	958	7745581564461338	CMakeFiles/1superdog.dir/src/main.cpp.obj	d17f82abc9164aa5
-35	722	7745581919709950	CMakeFiles/1superdog.dir/src/main.cpp.obj	d17f82abc9164aa5
-35	723	7745582784868973	CMakeFiles/1superdog.dir/src/main.cpp.obj	d17f82abc9164aa5
-42	924	7745582784962269	CMakeFiles/1superdog.dir/src/tools.cpp.obj	f82b41bbecde7dca
-35	716	7745583544155597	CMakeFiles/1superdog.dir/src/main.cpp.obj	d17f82abc9164aa5
-42	902	7745583544313591	CMakeFiles/1superdog.dir/src/tools.cpp.obj	f82b41bbecde7dca
-902	1557	7745583552872080	1superdog.exe	61ceab5f2074da5a
-37	738	7745585214723879	CMakeFiles/1superdog.dir/src/main.cpp.obj	d17f82abc9164aa5
-739	1025	7745585221741722	1superdog.exe	61ceab5f2074da5a
-39	1015	7745597962436453	CMakeFiles/1superdog.dir/src/main.cpp.obj	d17f82abc9164aa5
-1016	1393	7745597972185011	1superdog.exe	61ceab5f2074da5a
-37	734	7745599581487938	CMakeFiles/1superdog.dir/src/main.cpp.obj	d17f82abc9164aa5
-735	1033	7745599588460582	1superdog.exe	61ceab5f2074da5a
-38	726	7745599807459148	CMakeFiles/1superdog.dir/src/main.cpp.obj	d17f82abc9164aa5
-727	1082	7745599814357776	1superdog.exe	61ceab5f2074da5a
 42	736	7745601928838726	CMakeFiles/1superdog.dir/src/main.cpp.obj	d17f82abc9164aa5
+42	902	7745583544313591	CMakeFiles/1superdog.dir/src/tools.cpp.obj	f82b41bbecde7dca
 737	1031	7745601935837569	1superdog.exe	61ceab5f2074da5a
+21	774	7745774433269221	CMakeFiles/1superdog.dir/src/main.cpp.obj	d17f82abc9164aa5
+775	1153	7745774440823438	1superdog.exe	61ceab5f2074da5a

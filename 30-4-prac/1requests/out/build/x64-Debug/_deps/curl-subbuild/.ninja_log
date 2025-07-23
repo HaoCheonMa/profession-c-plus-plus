@@ -1,0 +1,21 @@
+# ninja log v6
+6	97	7748962770528596	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	bccf5bd791719e13
+6	97	7748962770528596	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/1requests/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	bccf5bd791719e13
+97	25980	7748963029257096	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	fd6f4f04716ee921
+97	25980	7748963029257096	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/1requests/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	fd6f4f04716ee921
+25980	26063	7748963030203399	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	8ef9a5f25ce9482e
+25980	26063	7748963030203399	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/1requests/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	8ef9a5f25ce9482e
+26064	26149	7748963030996438	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	703ab5b117f59f50
+26064	26149	7748963030996438	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/1requests/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	703ab5b117f59f50
+26150	26236	7748963031947992	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	624f9621bb6489ee
+26150	26236	7748963031947992	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/1requests/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	624f9621bb6489ee
+26237	26324	7748963032743049	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	d79684a35f4dfa33
+26237	26324	7748963032743049	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/1requests/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	d79684a35f4dfa33
+26325	26411	7748963033701090	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	592fc86b182c3b8d
+26325	26411	7748963033701090	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/1requests/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	592fc86b182c3b8d
+26411	26495	7748963034487046	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	c719b8985d48c1fd
+26411	26495	7748963034487046	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/1requests/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	c719b8985d48c1fd
+26496	26614	7748963035739041	CMakeFiles/curl-populate-complete	9b1713a48ef4738
+26496	26614	7748963035739041	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	9b1713a48ef4738
+26496	26614	7748963035739041	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/1requests/out/build/x64-Debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	9b1713a48ef4738
+26496	26614	7748963035739041	D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/30-4-prac/1requests/out/build/x64-Debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	9b1713a48ef4738

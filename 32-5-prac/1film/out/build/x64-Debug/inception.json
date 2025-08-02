@@ -1,0 +1,62 @@
+{
+ "country": [
+  "USA",
+  "Great Britain"
+ ],
+ "director": "Christopher Nolan",
+ "main_cast": [
+  {
+   "actor": "Leonardo DiCaprio",
+   "character": "Dom Cobb"
+  },
+  {
+   "actor": "Joseph Gordon-Levitt",
+   "character": "Arthur"
+  },
+  {
+   "actor": "Elliot Page",
+   "character": "Ariadne"
+  },
+  {
+   "actor": "Marion Cotillard",
+   "character": "Mal"
+  },
+  {
+   "actor": "Tom Hardy",
+   "character": "Eames"
+  },
+  {
+   "actor": "Ken Watanabe",
+   "character": "Saito"
+  },
+  {
+   "actor": "Dileep Rao",
+   "character": "Yusuf"
+  },
+  {
+   "actor": "Cillian Murphy",
+   "character": "Robert Fischer"
+  },
+  {
+   "actor": "Tom Berenger",
+   "character": "Peter Browning"
+  },
+  {
+   "actor": "Michael Caine",
+   "character": "Professor Miles"
+  }
+ ],
+ "original_title": "Inception",
+ "producers": [
+  "Emma Thomas",
+  "Christopher Nolan"
+ ],
+ "production_studios": [
+  "Warner Bros.",
+  "Legendary Entertainment",
+  "Syncopy"
+ ],
+ "release_date": "2010-07-16",
+ "screenplay_author": "Christopher Nolan",
+ "title": "Inception"
+}

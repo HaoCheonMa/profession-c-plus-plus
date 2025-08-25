@@ -1,5 +1,0 @@
-D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/32-5-prac/2catalog/out/build/x64-Debug/CMakeFiles/2catalog.dir
-D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/32-5-prac/2catalog/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/32-5-prac/2catalog/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/32-5-prac/2catalog/out/build/x64-Debug/nlohmann_json/CMakeFiles/edit_cache.dir
-D:/---PROJECTS/skillbox-projects/profession-c-plus-plus/32-5-prac/2catalog/out/build/x64-Debug/nlohmann_json/CMakeFiles/rebuild_cache.dir

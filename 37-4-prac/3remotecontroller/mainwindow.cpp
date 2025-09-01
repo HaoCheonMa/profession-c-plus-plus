@@ -2,12 +2,8 @@
 #include "channelnumbers.h"
 #include "splitbutton.h"
 #include "screendata.h"
-#include <QLabel>
 #include <QVBoxLayout>
 #include <QGridLayout>
-#include <QPushButton>
-#include <QString>
-#include <QTimer>
 #include <vector>
 
 MainWindow::MainWindow(QWidget *parent) : QWidget(parent){
@@ -56,7 +52,8 @@ MainWindow::MainWindow(QWidget *parent) : QWidget(parent){
     ScreenData *channel = new ScreenData(textChannel);
     ScreenData *volume = new ScreenData(textVolume);
     screen->setFixedSize(200, 250);
-    screen->setStyleSheet("border: 2px solid red");
+    screen->setObjectName("screen");
+    screen->setStyleSheet("QWidget#screen { border: 2px solid orange; background-color: dark-gray}");
     screenDataLayout->addWidget(channel);
     screenDataLayout->addWidget(volume);
     screenDataLayout->setAlignment(Qt::AlignCenter);

@@ -1,6 +1,7 @@
 #ifndef CHANNELNUMBERS_H
 #define CHANNELNUMBERS_H
 
+#pragma once
 #include <QPushButton>
 #include <QWidget>
 

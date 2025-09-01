@@ -1,6 +1,8 @@
 #ifndef SPLITBUTTON_H
 #define SPLITBUTTON_H
 
+#pragma once
+
 #include <QPushButton>
 #include <QMouseEvent>
 

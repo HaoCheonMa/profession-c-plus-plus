@@ -67,7 +67,7 @@ MainWindow::MainWindow(QWidget *parent) : QWidget(parent){
     connect(changeVolume, &SplitButton::upperClicked, volume, &ScreenData::upValue);
     connect(changeVolume, &SplitButton::lowerClicked, volume, &ScreenData::lowValue);
     for(int i = 0; i < 10; ++i){
-        connect(nums[i], &ChannelNumbers::clicked, this, [this, i]() mutable{
+        connect(nums[i], &ChannelNumbers::clicked, [this, i]() mutable{
             emit onDigitPressed(i);
         });
     }
